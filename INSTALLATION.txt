@@ -1,4 +1,4 @@
-1 - Copie o mueva la carpeta VENTAS a su servidor local o remoto
+1 - Copie o mueva la carpeta VENTAS a su servidor local
 
 2 - Cree una base de datos en MYSQL con el nombre de su preferencia (ventas), 
 selecci�nela e importe la base de datos del sistema con phpmyadmin u otro gestor grafico de MYSQL 
