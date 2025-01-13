@@ -12,7 +12,7 @@ su empresa y servidor. El archivo se encuentra en la carpeta �config�
 
 APP_NAME -> El nombre de su empresa u organizaci�n
 
-APP_URL -> La direcci�n URL de su servidor local (http://localhost/VENTAS/) o remoto (https://midominio/VENTAS/). 
+APP_URL -> La direcci�n URL de su servidor local (http://localhost/VENTAS/). 
 Importante no olvide colocar en la URL si es http o https 
 
 5 - Usuario por defecto: Administrador
